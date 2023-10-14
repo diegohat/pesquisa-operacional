@@ -1,4 +1,4 @@
-# Shortest Path Algorithms in Weighted Graphs Analysis
+# Analysis of Shortest Path Algorithms in Weighted Graphs
 
 ## Introduction
 
